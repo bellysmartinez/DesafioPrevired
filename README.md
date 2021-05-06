@@ -15,7 +15,7 @@ Realice el siguiente flujo:
 - Una vez ejecutados dirigirse a la carpeta ExtentReports y hacer clic sobre el html (PruebaNuevo.html) donde se abrirá el html y se podrá visualizar las evidencias.
 
 - También se puede acceder manualmente para visualizar las evidencias a través de la carpeta ExtentReports, acceder a la carpeta Evidencia y EvidenciaPruebaNuevo y 
-luego se mostrará cada una de las carpetas donde se encuentran las evidencias por cada test realizado.
+luego se mostrará cada una de las carpetas donde se encuentran las evidencias por cada test realizado: agregarblusa, cerrarsesion, crearcuenta, historiairdenes y ordencompleta.
 
 - En la carpeta src/test/resorces también se encontrará la carpeta datosPrueba que contiene el excel con todos los datos que se necesitan para crear la cuenta e ingresar en el formulario, los cuales son:
 correo, nombre, apellido, contraseña, día, mes, año, company, dirección, ciudad, país, código postal, telefóno 1, telefóno 2 y dirección alias.
