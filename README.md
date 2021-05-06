@@ -17,6 +17,9 @@ Realice el siguiente flujo:
 - También se puede acceder manualmente para visualizar las evidencias a través de la carpeta ExtentReports, acceder a la carpeta Evidencia y EvidenciaPruebaNuevo y 
 luego se mostrará cada una de las carpetas donde se encuentran las evidencias por cada test realizado.
 
+- En la carpeta src/test/resorces también se encontrará la carpeta datosPrueba que contiene el excel con todos los datos que se necesitan para crear la cuenta e ingresar en el formulario, los cuales son:
+correo, nombre, apellido, contraseña, día, mes, año, company, dirección, ciudad, país, código postal, telefóno 1, telefóno 2 y dirección alias.
+
 Nota: No se pudo realizar el test del vestido largo de verano debido a que el automatizador no reconoce los elementos del select de la talla, los botones de colores, 
 ni el botón de añadir a carrito de compras. Se intentó con id, name, Xpath y cssSelector y siempre arrojaba el error Unable to locate element.  
 
